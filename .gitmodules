@@ -1,0 +1,6 @@
+[submodule "microcasino-frontend"]
+	path = microcasino-frontend
+	url = https://github.com/MarckJrquin/microcasino-frontend.git
+[submodule "microcasino-backend"]
+	path = microcasino-backend
+	url = https://github.com/MarckJrquin/microcasino-backend.git
